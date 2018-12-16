@@ -1,0 +1,17 @@
+body{background-color:white;
+  background-image: url(img/uber.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;}
+
+h1,h2,h3,h4,h5,h6{
+  color:white;
+  font-family: 'PT Sans', sans-serif;
+}
+
+p{color:black;
+font-family: 'PT Sans', sans-serif;
+}
+
+<td align="center">align="center"</td>

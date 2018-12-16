@@ -1,0 +1,45 @@
+
+/* =======================================================
+*
+* 	Template Style
+*
+* ======================================================= */
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.7;
+  color: #333333;
+  background: #fff;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+p{
+  font-family: 'Open Sans', sans-serif;
+}
+
+/* Style the video: 100% width and height to cover the entire window */
+#myVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+}
+
+/* Add some content */
+.content {
+    position: fixed;
+    bottom: 20;
+    left: 10px;
+    width: 100%;
+    padding: 150px;
+}
+
+
+
+/*# sourceMappingURL=style.css.map */
